@@ -1,6 +1,6 @@
 ---
 title: Home
-subtitle: lorem-ipsum
+subtitle: Data
 excerpt: lorem-ipsum
 template: page
 ---
