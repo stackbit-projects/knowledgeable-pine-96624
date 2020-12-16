@@ -1,6 +1,6 @@
 ---
 title: Home
-subtitle: Data
+subtitle: Data Services.  Made Simple.
 excerpt: lorem-ipsum
 template: page
 ---
